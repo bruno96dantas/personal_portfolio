@@ -1,0 +1,25 @@
+body, #form-contact div {
+  background-color: #778899;
+  font-family: 'Montserrat', sans-serif;
+}
+#main-title {
+  margin-top: 50px;
+}
+#brand, #content-site li a, #footer-font, #portfolio, #contact, #social-media li a i, #form-contact label {
+  color: #7CFC00;
+}
+#profile-pic {
+  border-radius: 50%;
+}
+#form-contact div {
+  padding-bottom: 45px;
+}
+#body-content {
+  padding-bottom: 80px;
+}
+#img1, #img2 {
+  max-width:1100px;
+  max-height:700px;
+  width: auto;
+  height: auto;
+}
